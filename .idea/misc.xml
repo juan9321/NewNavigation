@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_a.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_b.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_c.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_d.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_e.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/fragment_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/primeiro_fragment.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/quarto_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/quinto_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/segundo_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/terceiro_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/AppNavExercicio-main/app/src/main/res/layout/ultimo_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/NweNavigation/app/src/main/res/layout/primeiro_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_a.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_b.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_c.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_d.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_e.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jajps/AndroidStudioProjects/ExNav2/app/src/main/res/layout/fragment_fragment.xml" value="0.2921195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

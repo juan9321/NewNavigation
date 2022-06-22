@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navegacao"
+    app:startDestination="@id/fragmentA">
+
+    <fragment
+        android:id="@+id/fragmentA"
+        android:name="com.example.exnav2.primeira"
+        android:label="fragment_a"
+        tools:layout="@layout/primeiro_fragment" >
+        <action
+            android:id="@+id/action_fragmentA_to_fragmentB"
+            app:destination="@id/fragmentB" />
+        <action
+            android:id="@+id/action_fragmentA_to_fragmentC"
+            app:destination="@id/fragmentC" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentB"
+        android:name="com.example.exnav2.segunda"
+        android:label="fragment_b"
+        tools:layout="@layout/segundo_fragment" >
+        <action
+            android:id="@+id/action_fragmentB_to_fragmentD"
+            app:destination="@id/fragmentD" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentC"
+        android:name="com.example.exnav2.terceira"
+        android:label="fragment_c"
+        tools:layout="@layout/terceiro_fragment" >
+        <action
+            android:id="@+id/action_fragmentC_to_fragmentE"
+            app:destination="@id/fragmentE" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentD"
+        android:name="com.example.exnav2.quarta"
+        android:label="fragment_d"
+        tools:layout="@layout/quarto_fragment" >
+        <action
+            android:id="@+id/action_fragmentD_to_fragmentF"
+            app:destination="@id/fragmentF" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentE"
+        android:name="com.example.exnav2.quinta"
+        android:label="fragment_e"
+        tools:layout="@layout/quinto_fragment" >
+        <action
+            android:id="@+id/action_fragmentE_to_fragmentF"
+            app:destination="@id/fragmentF" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentF"
+        android:name="com.example.exnav2.fragmentF"
+        android:label="fragment_fragment"
+        tools:layout="@layout/ultimo_fragment" >
+        <action
+            android:id="@+id/action_fragmentF_to_fragmentA"
+            app:destination="@id/fragmentA" />
+    </fragment>
+</navigation>

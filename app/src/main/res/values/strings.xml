@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_a">primeira Pagina</string>
+    <string name="fragment_b">Segunda Pagina</string>
+    <string name="fragment_c">Terceira Pagina</string>
+    <string name="fragment_d">Quarta pagina</string>
+    <string name="fragment_e">Quinta Pagina</string>
+    <string name="fragment_f">Ultima Pagina</string>
+    <string name="ret">Voltar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
